@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomCollectionDesignTime/Form1.cs) (VB: [Form1.vb](./VB/CustomCollectionDesignTime/Form1.vb))
+<!-- default file list end -->
 # How to bind a report to a custom collection at design time
 
 
